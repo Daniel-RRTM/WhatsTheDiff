@@ -1,5 +1,5 @@
 
-from colorama import init,Fore, Back,Style
+from colorama import init,Fore,Style
 
 
 init(autoreset=True)
@@ -12,9 +12,8 @@ second_text = input()
 
 to_itterate = len(first_text) if len(first_text) >= len(second_text) else len(second_text)
 
-second_print = ""
 first_print  = ""
-
+second_print = ""
 
 
 for char_nr in range(to_itterate):
@@ -39,7 +38,5 @@ print(first_print)
 print("---------------------")
 print(second_print)
 print()
-
-
 
 
