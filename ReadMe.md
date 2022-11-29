@@ -1,5 +1,5 @@
 ![Mark down Wikipedia](banner.png)
-
+a
 <h3 align="center">Differentiate texts by CLI</h3>
 <p align="center">
     <a href="#Installation">Installation</a> •
