@@ -1,4 +1,4 @@
-![Mark down Wikipedia](banner.png)
+![Mark down Wikipedia](https://raw.githubusercontent.com/Daniel-RRR/Daniel-RRR.github.io/main/cross_repo_media/repo_banner/Whats_The_Diff.png)
   
 <h3 align="center">Differentiate texts by CLI</h3>
 <p align="center">
